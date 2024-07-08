@@ -1,5 +1,4 @@
-- 👋 I’m @martinconyon
- 👀 
+👋 I’m @martinconyon
 
 <!---
 martinconyon/martinconyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
