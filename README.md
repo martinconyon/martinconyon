@@ -1,6 +1,6 @@
 I'm Martin Conyon.
 
-This GitHub page is a place I put various tech and academic stuff.
+This GitHub page is a place where I put various tech and academic stuff.
 
 <!---
 martinconyon/martinconyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
